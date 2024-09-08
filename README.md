@@ -1,5 +1,4 @@
 - 👋 Hi, I’m mohan
-- 🌱 I’m currently learning python
 - 📫 How to reach me mohanchauhan20115@gmail.com
 - 😄 Pronouns: he/him
 
